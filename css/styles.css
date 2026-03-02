@@ -12,11 +12,6 @@ body {
     /* color: white */
 }
 
-.content-wrap {
-    max-width: 950px;
-    margin: 0 auto;
-    padding: 50px;
-}
 
 
 
@@ -45,7 +40,6 @@ h2 {
     color: #698F3F;
     font-size: 24px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-top: 0;
 }
 
 h1 {

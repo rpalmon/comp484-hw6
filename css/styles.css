@@ -1,26 +1,83 @@
 /* Color Palette
-# - color 1
-# - color 2
-# - color 3
-# - color 4
+# - color 1 #0A122A
+# - color 2 #698F3F
+# - color 3 #FBFAF8
+# - color 4 #E7DECD
 */
 
 /* Global styles 
 ------------------------------------*/
 body {
-    /*background: lightblue;*/
+    background: #0A122A;
+    /* color: white */
 }
+
+
+
 
 
 /* Header & Footer 
 ------------------------------------*/
+header {
+    background: #E7DECD;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background: #E7DECD;
+    padding: 10px;
+    text-align: center;
+}
+
+h3 {
+    color: #804E49;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Start of Step 6 */
+h2 {
+    color: #698F3F;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: #804E49;
+    font-size: 36px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* End of Step 6 */
+
+p {
+    color: #0A122A;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
 
 
 
 /* Work Experience
 ------------------------------------*/
+.work-experience {
+    background: #FBFAF8;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
 
 
 
 /* Education
 ------------------------------------*/
+.education {
+    background: #FBFAF8;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
